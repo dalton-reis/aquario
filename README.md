@@ -8,7 +8,7 @@
 
 ## tcc_KevinEduardPiske
 
-[GitHub: https://github.com/dalton-reis/tcc_KevinEduardPiske](https://github.com/dalton-reis/tcc_KevinEduardPiske "GitHub: https://github.com/dalton-reis/tcc_KevinEduardPiske")  
+LinkGIT: <https://github.com/dalton-reis/tcc_KevinEduardPiske>  
 [Monografia Kevin Eduard Piske](http://dsc.inf.furb.br/arquivos/tccs/monografias/2015_2_kevin-eduard-piske_monografia.pdf "Monografia Kevin Eduard Piske")  
 [Arquitetura](imgs/tcc_KevinEduardPiske_arquitetura.png "Arquitetura")  
 [Tela - Controle](imgs/tcc_KevinEduardPiske_TelaControle.png "Tela - Controle")  
@@ -16,7 +16,7 @@
 
 ## tcc_FlavioOmarLosada
 
-[GitHub: https://github.com/dalton-reis/tcc_FlavioOmarLosada](https://github.com/dalton-reis/tcc_FlavioOmarLosada "GitHub: https://github.com/dalton-reis/tcc_FlavioOmarLosada")  
+LinkGIT: <https://github.com/dalton-reis/tcc_FlavioOmarLosada>  
 [Monografia Flávio Omar Losada](http://dsc.inf.furb.br/arquivos/tccs/monografias/2019_1_flavio-omar-losada_monografia.pdf "Monografia Kevin Eduard Piske")  
 [Conexão WIFI](imgs/tcc_FlavioOmarLosada_ConexaoWIFI.png "Conexão WIFI")  
 [Configuração do Dispositivo](imgs/tcc_FlavioOmarLosada_CfgDispositivo.png "Configuração do Dispositivo")  
@@ -28,7 +28,7 @@
 
 ## tcc_MatheusWaltrichDaSilva
 
-[GitHub: https://github.com/dalton-reis/tcc_MatheusWaltrichDaSilva](https://github.com/dalton-reis/tcc_MatheusWaltrichDaSilva "GitHub: https://github.com/dalton-reis/tcc_MatheusWaltrichDaSilva")  
+LinkGIT: <https://github.com/dalton-reis/tcc_MatheusWaltrichDaSilva>  
 [Monografia Matheus Waltrich da Silva](http://dsc.inf.furb.br/arquivos/tccs/monografias/2020_1_matheus-waltrich-da-silva_monografia.pdf "Monografia Matheus Waltrich da Silva")  
 [Fluxograma de Funções](imgs/tcc_MatheusWaltrichDaSilva_FluxogramaFuncoes.png "Fluxograma de Funções")  
 [Tela - Configuração](imgs/tcc_MatheusWaltrichDaSilva_TelaCFG.png "Tela - Configuração")  
@@ -38,7 +38,7 @@
 
 ## tcc_JoaoMarcosEstevao
 
-[GitHub: https://github.com/dalton-reis/tcc_JoaoMarcosEstevao](https://github.com/dalton-reis/tcc_JoaoMarcosEstevao "GitHub: https://github.com/dalton-reis/tcc_JoaoMarcosEstevao")  
+LinkGIT: <https://github.com/dalton-reis/tcc_JoaoMarcosEstevao>  
 [Monografia João Marcos Estevão](http://dsc.inf.furb.br/arquivos/tccs/monografias/2020_1_joao-marcos-estevao_monografia.pdf "Monografia João Marcos Estevão")  
 [Unity ML - Treinamento Agentes](imgs/tcc_JoaoMarcosEstevao_UnityMlTreinamentoAgente.png "Unity ML - Treinamento Agentes")  
 [Unity ML - Treinamento Ambiente](imgs/tcc_JoaoMarcosEstevao_UnityMlTreinamentoAmbiente.png "Unity ML - Treinamento Ambiente")  
@@ -47,4 +47,4 @@
 
 [FIXME: material TCC Carlos]  
 
-[GitHub: https://github.com/dalton-reis/tcc_CarlosEduardoMachado](https://github.com/dalton-reis/tcc_CarlosEduardoMachado "GitHub: https://github.com/dalton-reis/tcc_CarlosEduardoMachado")  
+LinkGIT: <https://github.com/dalton-reis/tcc_CarlosEduardoMachado>  
